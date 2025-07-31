@@ -1,0 +1,6 @@
+{
+  "name": "Notion-Style AI Editor",
+  "description": "A versatile, Notion-style editor with integrated AI capabilities for content generation. Create, edit, and organize your notes seamlessly.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
